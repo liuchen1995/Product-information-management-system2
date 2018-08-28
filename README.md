@@ -4,5 +4,5 @@
 
 ## 配置要求
 
-pip安装PyQt5，将libmysql.dll文件放到venv\Lib\site-packages\PyQt5\Qt\bin
+pip install requirement.txt
 
