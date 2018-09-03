@@ -4,6 +4,8 @@
 
 ## 配置要求
 python -m venv VENV
+
 VENV\Scripts\activate.bat
+
 pip install requirement.txt
 
