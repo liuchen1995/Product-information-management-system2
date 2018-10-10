@@ -17,3 +17,12 @@ pip install -r requirement.txt
 ## 三.截图
 ### 1.QtDesigner设计UI界面
 ![Aaron Swartz](https://raw.githubusercontent.com/liuchen1995/Product-information-management-system2/master/截图/UI开发界面.jpg)
+### 2.登陆界面
+![Aaron Swartz](https://raw.githubusercontent.com/liuchen1995/Product-information-management-system2/master/截图/登陆界面.jpg)
+### 3.主界面
+![Aaron Swartz](https://raw.githubusercontent.com/liuchen1995/Product-information-management-system2/master/截图/主界面.jpg)
+### 4.产品管理界面
+![Aaron Swartz](https://raw.githubusercontent.com/liuchen1995/Product-information-management-system2/master/截图/产品管理界面.jpg)
+### 5.产品分析界面
+![Aaron Swartz](https://raw.githubusercontent.com/liuchen1995/Product-information-management-system2/master/截图/产品分析界面.jpg)
+
