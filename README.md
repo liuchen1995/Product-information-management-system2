@@ -13,6 +13,6 @@ pip install -r requirement.txt
 ### 2.服务器安装
 安装mySQL，创建账户
 ### 3.使用
-用mySQL数据库的账户登陆
+用mySQL账户登陆
 ## 三.截图
 
