@@ -15,4 +15,5 @@ pip install -r requirement.txt
 ### 3.使用
 用mySQL账户登陆
 ## 三.截图
-
+### 1.QtDesigner设计UI界面
+![Aaron Swartz](https://raw.githubusercontent.com/liuchen1995/Product-information-management-system2/master/截图/UI开发界面.jpg)
