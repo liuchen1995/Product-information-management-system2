@@ -14,7 +14,7 @@ class logindialogue(QDialog):
         # 测试使用
         self.UI.lineEdit_IPaddress.setText("localhost")
         self.UI.lineEdit_account.setText('root')
-        self.UI.lineEdit_password.setText('950627')
+        self.UI.lineEdit_password.setText('Jiqirenxueyuan@308')
 
 
         self.UI.pushButton_exit.clicked.connect(self.close)
